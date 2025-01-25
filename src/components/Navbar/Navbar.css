@@ -1,0 +1,16 @@
+.bg-gradient-c{
+    background: #833ab4;
+    background: linear-gradient(
+      to right,
+      #833ab4,#fd1d1d,#fcb045);
+      margin-bottom: 45px;
+}
+.bg-gradient-c .glob-title{
+    color: #fff;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 35px;    
+}
